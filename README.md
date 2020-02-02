@@ -5,11 +5,11 @@
 
 # Conteúdo
 ###### Visão geral do projeto
--Tecnologias
--Documentação Open Weather API
--Informações iniciais
--Clonando o repositório
--Versão compilada
+- Tecnologias
+- Documentação Open Weather API
+- Informações iniciais
+- Clonando o repositório
+- Versão compilada
 
 
 ### Visão geral do projeto
